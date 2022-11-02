@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=costearaulbest&label=Profile%20views&color=0e75b6&style=flat" alt="costearaulbest" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costearaulbest" alt="costearaulbest" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/geamyisthebest" target="blank"><img src="https://img.shields.io/twitter/follow/geamyisthebest?logo=twitter&style=for-the-badge" alt="geamyisthebest" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
@@ -16,7 +14,7 @@
 <a href="https://twitter.com/geamyisthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geamyisthebest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raul costea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul costea" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/costea raul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="costea raul" height="30" width="40" /></a>
-<a href="https://discord.gg/Raul cul chid#3452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raul cul chid#3452" height="30" width="40" /></a>
+<a href="https://discord.gg/Raul cul chid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raul cul chid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
