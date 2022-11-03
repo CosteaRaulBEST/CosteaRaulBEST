@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/geamyisthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geamyisthebest" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raul-costea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-costea" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raul-costea-2b37541a9/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-costea" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19320123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19320123" height="30" width="40" /></a>
 <a href="https://discord.gg/Raul cul chid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raul cul chid" height="30" width="40" /></a>
 </p>
